@@ -78,4 +78,36 @@ echo Removing "*.PST_TOP" files...
 for /f "delims==" %%i in ('dir /b /on /s "%~p0*.PST_TOP"') do del "%%i" /f /q
 echo.
 
+echo Removing "*.GTL" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GTL"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GBL " files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GBL"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GTS" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GTS"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GBS" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GBS"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GTO" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GTO"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GBO" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GBO"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.GKO" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.GKO"') do del "%%i" /f /q
+echo.
+
+echo Removing "*.XLN" files...
+for /f "delims==" %%i in ('dir /b /on /s "%~p0*.XLN"') do del "%%i" /f /q
+echo.
+
 echo "%~n0.bat" done.
