@@ -9,7 +9,3 @@ Images
 <img src="https://raw.githubusercontent.com/xioTechnologies/Gloves-PCB/master/Images/Gloves%20PCB%20In%20Eagle.png"/>
 
 <img src="https://raw.githubusercontent.com/xioTechnologies/Gloves-PCB/master/Images/Gloves%20PCB%20Powered.JPG"/>
-
-<img src="https://raw.githubusercontent.com/xioTechnologies/Gloves-PCB/master/Images/Gloves%20PCB%20LED.JPG"/>
-
-<img src="https://raw.githubusercontent.com/xioTechnologies/Gloves-PCB/master/Images/Gloves%20PCB%20Motor.JPG"/>
